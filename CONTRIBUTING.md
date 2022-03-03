@@ -45,7 +45,7 @@ Team members will be happy to help review specs and guide them to completion.
 
 Once the team has approved an issue/spec approach to solving, development can proceed. If no developers are immediately available, the spec can be parked ready for a developer to get started. Parked specs' issues will be labeled "Help Wanted". To find a list of development opportunities waiting for developer involvement, visit the Issues and filter on [the Help-Wanted label](https://github.com/microsoft/PowerToys/labels/Help%20Wanted).
 
----
+------
 
 ## Development
 
